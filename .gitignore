@@ -1,0 +1,29 @@
+# Node / Vite
+node_modules/
+dist/
+*.log
+
+# Java / Maven
+target/
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs / Editors
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+
+# Env / Secrets
+.env
+.env.*
+application-local.properties
