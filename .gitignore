@@ -27,3 +27,5 @@ logs/
 .env
 .env.*
 application-local.properties
+
+!techway/.env.production
